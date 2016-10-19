@@ -20,3 +20,8 @@
 
 
 **Find PI to the Nth Digit** - Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go.[[prateekiiest(C++)]](https://github.com/prateekiiest/SelfProjects/blob/master/pi.cc)
+
+
+
+**Complex Number Algebra** - Show addition, multiplication, negation, and inversion of complex numbers in separate functions. (Subtraction and division operations can be made with pairs of these operations.) Print the results for each operation tested.
+[[prateekiiest (C)]](https://github.com/prateekiiest/SelfProjects/blob/master/complexoperations.c)
