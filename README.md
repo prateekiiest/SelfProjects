@@ -25,3 +25,6 @@
 
 **Complex Number Algebra** - Show addition, multiplication, negation, and inversion of complex numbers in separate functions. (Subtraction and division operations can be made with pairs of these operations.) Print the results for each operation tested.
 [[prateekiiest (C)]](https://github.com/prateekiiest/SelfProjects/blob/master/complexoperations.c)
+
+**Next Prime Number** - Have the program find prime numbers until the user chooses to stop asking for the next one.
+[[prateekiiest(C)]](https://github.com/prateekiiest/SelfProjects/blob/master/nextprime.c)
