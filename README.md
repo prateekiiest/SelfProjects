@@ -1,11 +1,21 @@
-#Graphs
+## CryptoGraphy
+
+
+
+
+-----------------------------------------------
+
+## MST - Minimum Spanning Tree
+### Graphs
 --------
 
 **Dijkstra’s Algorithm** - Create a program that finds the shortest path through a graph using its edges.[[prateekiiest(C)] ](https://github.com/prateekiiest/SelfProjects/blob/master/1.c)
 
 ---------
 
-#Numbers
+
+## Generic Programs
+### Numbers
 --------
 
 **Fibonacci Sequence** - Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.
@@ -28,3 +38,8 @@
 
 **Next Prime Number** - Have the program find prime numbers until the user chooses to stop asking for the next one.
 [[prateekiiest(C)]](https://github.com/prateekiiest/SelfProjects/blob/master/nextprime.c)
+
+
+
+
+
